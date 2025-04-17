@@ -1,4 +1,4 @@
 @echo off
-cd /d "C:\Users\mana\Desktop\DEV PROJECT\POSTGESQL\PROJET GESTION STOCK"
+cd /d "C:\Users\....chemin du fichier contenant le script python\"
 python alerte_stock.py
 pause
